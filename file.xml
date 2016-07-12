@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE Screen
+[
+<!ELEMENT Screen (Button)>
+<!ELEMENT Button (#PCDATA)>
+]>
+-->
+
+<Screen id="1">
+  <Background>
+    <color>0 255 0</color>
+  </Background>
+
+  <Picture>
+    <file>blah2.txt</file>
+    <loc>"144,256"</loc>
+  </Picture>
+
+  <Text>
+    <body>"Yo yoyo yo"</body>
+    <loc>"122x174"</loc>
+    <font>Thisfont</font>
+  </Text>
+
+  <Button>
+    <loc></loc>
+    <file></file>
+    <action></action>
+  </Button>
+</Screen>
